@@ -119,12 +119,12 @@ pipeline = (
 ## Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bedirrhaan&show_icons=true&count_private=true&hide_border=true&bg_color=0A0A0A&title_color=EF4444&icon_color=F87171&text_color=E5E5E5&ring_color=7F1D1D" alt="stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bedirrhaan&show_icons=true&count_private=true&hide_border=true&bg_color=0A0A0A&title_color=EF4444&icon_color=F87171&text_color=E5E5E5" alt="stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=bedirrhaan&hide_border=true&background=0A0A0A&stroke=7F1D1D&ring=EF4444&fire=F97316&currStreakLabel=EF4444&sideLabels=A3A3A3&dates=737373&currStreakNum=FAFAFA&sideNums=FAFAFA" alt="streak" />
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedirrhaan&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=EF4444&text_color=E5E5E5&langs_count=8" alt="languages" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bedirrhaan&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=EF4444&text_color=E5E5E5&langs_count=8" alt="languages" />
 </div>
 
 <br/>
