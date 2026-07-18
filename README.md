@@ -5,7 +5,7 @@
 -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bedirrhaan/bedirrhaan/main/header.svg" width="100%" alt="scrape · build · ship — Bedirhan, Web Scraping & Automation" />
+  <img src="https://raw.githubusercontent.com/bedirrhaan/bedirrhaan/main/header.png" width="100%" alt="scrape · build · ship — Bedirhan, Web Scraping & Automation" />
 </div>
 
 <br/>
