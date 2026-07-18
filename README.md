@@ -1,14 +1,7 @@
 <!--
   Profile README · github.com/bedirrhaan
   Palette: charcoal · crimson · ember
-  Header: craft line + name in subtitle (not billboard ego)
 -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/bedirrhaan/bedirrhaan/main/header.png" width="100%" alt="scrape · build · ship — Bedirhan, Web Scraping & Automation" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=26&duration=3400&pause=900&color=EF4444&center=true&vCenter=true&width=780&height=40&lines=Hostile+sites+in.+Clean+data+out." alt="typing" />
