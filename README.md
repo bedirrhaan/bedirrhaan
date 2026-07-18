@@ -23,8 +23,6 @@
   &nbsp;
   <img src="https://img.shields.io/github/followers/bedirrhaan?label=Followers&style=flat-square&color=ef4444&logo=github&logoColor=white" alt="followers" />
   &nbsp;
-  <a href="https://twitter.com/bedirrhaaan"><img src="https://img.shields.io/badge/X-0A0A0A?style=flat-square&logo=x&logoColor=EF4444" alt="x" /></a>
-  &nbsp;
   <img src="https://img.shields.io/badge/Based_in-Turkey-0A0A0A?style=flat-square&labelColor=7f1d1d&color=ef4444" alt="location" />
 </div>
 
@@ -152,8 +150,6 @@ pipeline = (
 Open to roles & freelance around **scraping, automation, and data infrastructure**.
 
 <div align="center">
-  <a href="https://twitter.com/bedirrhaaan"><img src="https://img.shields.io/badge/%40bedirrhaaan-0A0A0A?style=for-the-badge&logo=x&logoColor=EF4444" alt="x" /></a>
-  &nbsp;
   <a href="https://github.com/bedirrhaan"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=EF4444" alt="github" /></a>
 </div>
 
