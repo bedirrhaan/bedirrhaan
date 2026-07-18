@@ -1,40 +1,43 @@
 <!--
   Profile README · github.com/bedirrhaan
-  Palette: midnight charcoal · electric cyan · soft mint
+  Palette: charcoal · crimson · ember
+  Header: craft line + name in subtitle (not billboard ego)
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:0E7490,100:22D3EE&height=220&section=header&text=BEDIRHAN&fontSize=72&fontColor=F8FAFC&fontAlignY=38&desc=Data%20Extraction%20%C2%B7%20Browser%20Automation%20%C2%B7%20Clean%20Pipelines&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,45:7F1D1D,100:EF4444&height=220&section=header&text=scrape%20%C2%B7%20build%20%C2%B7%20ship&fontSize=52&fontColor=FAFAFA&fontAlignY=40&desc=Bedirhan%20%E2%80%94%20Web%20Scraping%20%26%20Automation&descAlignY=62&descSize=18&animation=fadeIn" width="100%" alt="header" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=22D3EE&center=true&vCenter=true&multiline=true&width=720&height=70&lines=I+turn+hostile+websites+into+structured+data.;Selenium+%C2%B7+Playwright+%C2%B7+Anti-bot+%C2%B7+APIs" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=26&duration=3400&pause=900&color=EF4444&center=true&vCenter=true&width=780&height=40&lines=Hostile+sites+in.+Clean+data+out." alt="typing" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=16&duration=3800&pause=700&color=F87171&center=true&vCenter=true&width=780&height=32&lines=Selenium+%C2%B7+Playwright+%C2%B7+Anti-bot+%C2%B7+APIs+%C2%B7+Pipelines" alt="stack typing" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bedirrhaan&label=Profile+views&color=0e7490&style=flat-square" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=bedirrhaan&label=Profile+views&color=b91c1c&style=flat-square" alt="views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/bedirrhaan?label=Followers&style=flat-square&color=22d3ee&logo=github&logoColor=white" alt="followers" />
+  <img src="https://img.shields.io/github/followers/bedirrhaan?label=Followers&style=flat-square&color=ef4444&logo=github&logoColor=white" alt="followers" />
   &nbsp;
-  <a href="https://twitter.com/bedirrhaaan"><img src="https://img.shields.io/badge/X-0B1220?style=flat-square&logo=x&logoColor=22D3EE" alt="x" /></a>
+  <a href="https://twitter.com/bedirrhaaan"><img src="https://img.shields.io/badge/X-0A0A0A?style=flat-square&logo=x&logoColor=EF4444" alt="x" /></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Based_in-Turkey-0B1220?style=flat-square&labelColor=0e7490&color=22d3ee" alt="location" />
+  <img src="https://img.shields.io/badge/Based_in-Turkey-0A0A0A?style=flat-square&labelColor=7f1d1d&color=ef4444" alt="location" />
 </div>
 
 ---
 
 ## About
 
-I design **production-grade scrapers and automation systems** — the kind that keep working when sites fight back.
+I build **production scrapers and automation systems** that survive real anti-bot walls — not toy demos.
 
-Not demo scripts. Resilient crawlers, browser fleets, captcha / anti-bot handling, and pipelines that ship clean CSV / JSON / SQL.
+Browser fleets, Turnstile / fingerprint handling, concurrent crawlers, and pipelines that export clean CSV · JSON · SQL.
 
 ```python
-# what I actually build
+# what I ship
 pipeline = (
     discover(urls)
     | render(browser="stealth")   # Selenium · Playwright · Patchright
@@ -48,8 +51,8 @@ pipeline = (
 |:--|:--|
 | **Focus** | Web scraping · browser automation · data pipelines |
 | **Strengths** | Anti-bot resilience · concurrent crawlers · clean APIs |
-| **Languages** | Python · C / C++ · TypeScript · Bash |
-| **Languages (human)** | English · Turkish |
+| **Stack** | Python · C / C++ · TypeScript · Bash |
+| **Speak** | English · Turkish |
 
 ---
 
@@ -64,8 +67,8 @@ pipeline = (
 <p align="center">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/BeautifulSoup-092E20?style=for-the-badge&logo=python&logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/httpx-0B1220?style=for-the-badge&logo=python&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-0A0A0A?style=for-the-badge&logo=python&logoColor=EF4444" />
+  <img src="https://img.shields.io/badge/httpx-0A0A0A?style=for-the-badge&logo=python&logoColor=F87171" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
@@ -77,37 +80,37 @@ pipeline = (
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/bedirrhaan/turnstile-solver-api">turnstile-solver-api</a></h3>
-      <p>Self-hosted API that solves <b>Cloudflare Turnstile</b> with a pool of stealth browsers — built for scraping pipelines that need tokens on demand.</p>
+      <h3>🔥 <a href="https://github.com/bedirrhaan/turnstile-solver-api">turnstile-solver-api</a></h3>
+      <p>Self-hosted API that solves <b>Cloudflare Turnstile</b> with a stealth browser pool — tokens on demand for scraping pipelines.</p>
       <code>Python</code> · <code>Quart</code> · <code>Patchright</code> · <code>Camoufox</code>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/bedirrhaan/cs2-skin-arbitrage">cs2-skin-arbitrage</a></h3>
-      <p>Multi-marketplace <b>CS2 price intelligence</b>: scrapes 5 sources, normalizes FX, and fires Telegram alerts the moment a spread opens.</p>
+      <h3>💹 <a href="https://github.com/bedirrhaan/cs2-skin-arbitrage">cs2-skin-arbitrage</a></h3>
+      <p>Multi-marketplace <b>CS2 price intel</b>: 5 sources, FX normalize, Telegram alert the second a spread opens.</p>
       <code>Python</code> · <code>FastAPI</code> · <code>BeautifulSoup</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/bedirrhaan/ecommerce-ai-seller-panel">ecommerce-ai-seller-panel</a></h3>
-      <p>AI-assisted <b>multi-marketplace seller panel</b> — normalized orders, catalog ops, and review intelligence across Turkish e-commerce platforms.</p>
+      <h3>🛒 <a href="https://github.com/bedirrhaan/ecommerce-ai-seller-panel">ecommerce-ai-seller-panel</a></h3>
+      <p>AI-assisted <b>multi-marketplace seller panel</b> — orders, catalog, review intelligence across major TR platforms.</p>
       <code>Python</code> · <code>FastAPI</code> · <code>Gemini</code>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/bedirrhaan/crypto-arbitrage-bot">crypto-arbitrage-bot</a></h3>
-      <p>Live spread detector between <b>BTCTurk (REST)</b> and <b>Paribu (Selenium)</b> — API auth, threaded polling, desktop GUI.</p>
+      <h3>⚡ <a href="https://github.com/bedirrhaan/crypto-arbitrage-bot">crypto-arbitrage-bot</a></h3>
+      <p>Live spread detector: <b>BTCTurk REST</b> vs <b>Paribu Selenium</b> — HMAC auth, threads, desktop GUI.</p>
       <code>Python</code> · <code>Selenium</code> · <code>HMAC</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/bedirrhaan/image-web-crawler">image-web-crawler</a></h3>
-      <p>Recursive image crawler + <b>EXIF / GPS forensics</b> toolkit — scrape the web, then inspect what the pixels remember.</p>
+      <h3>🕸️ <a href="https://github.com/bedirrhaan/image-web-crawler">image-web-crawler</a></h3>
+      <p>Recursive image crawler + <b>EXIF / GPS forensics</b> — scrape the web, then read what the pixels remember.</p>
       <code>Python</code> · <code>stdlib</code>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/bedirrhaan/raycasting-engine">raycasting-engine</a></h3>
-      <p>From-scratch <b>raycasting 3D engine</b> (cub3D) — systems-level C, graphics math, and real-time rendering with MiniLibX.</p>
+      <h3>🎮 <a href="https://github.com/bedirrhaan/raycasting-engine">raycasting-engine</a></h3>
+      <p>From-scratch <b>raycasting 3D engine</b> — systems C, graphics math, real-time MiniLibX rendering.</p>
       <code>C</code> · <code>MiniLibX</code>
     </td>
   </tr>
@@ -118,18 +121,18 @@ pipeline = (
 ## Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bedirrhaan&show_icons=true&count_private=true&hide_border=true&bg_color=0B1220&title_color=22D3EE&icon_color=34D399&text_color=CBD5E1&ring_color=0E7490" alt="stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=bedirrhaan&hide_border=true&background=0B1220&stroke=0E7490&ring=22D3EE&fire=34D399&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bedirrhaan&show_icons=true&count_private=true&hide_border=true&bg_color=0A0A0A&title_color=EF4444&icon_color=F87171&text_color=E5E5E5&ring_color=7F1D1D" alt="stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=bedirrhaan&hide_border=true&background=0A0A0A&stroke=7F1D1D&ring=EF4444&fire=F97316&currStreakLabel=EF4444&sideLabels=A3A3A3&dates=737373&currStreakNum=FAFAFA&sideNums=FAFAFA" alt="streak" />
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedirrhaan&layout=compact&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=CBD5E1&langs_count=8" alt="languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedirrhaan&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=EF4444&text_color=E5E5E5&langs_count=8" alt="languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bedirrhaan&bg_color=0B1220&color=22D3EE&line=34D399&point=F8FAFC&area=true&area_color=0E7490&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bedirrhaan&bg_color=0A0A0A&color=EF4444&line=F87171&point=FAFAFA&area=true&area_color=7F1D1D&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" />
 </div>
 
 <br/>
@@ -146,16 +149,16 @@ pipeline = (
 
 ## Let's build something
 
-Open to roles and freelance work around **scraping, automation, and data infrastructure**.
+Open to roles & freelance around **scraping, automation, and data infrastructure**.
 
 <div align="center">
-  <a href="https://twitter.com/bedirrhaaan"><img src="https://img.shields.io/badge/%40bedirrhaaan-0B1220?style=for-the-badge&logo=x&logoColor=22D3EE" alt="x" /></a>
+  <a href="https://twitter.com/bedirrhaaan"><img src="https://img.shields.io/badge/%40bedirrhaaan-0A0A0A?style=for-the-badge&logo=x&logoColor=EF4444" alt="x" /></a>
   &nbsp;
-  <a href="https://github.com/bedirrhaan"><img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE" alt="github" /></a>
+  <a href="https://github.com/bedirrhaan"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=EF4444" alt="github" /></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:0E7490,100:0B1220&height=120&section=footer" width="100%" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF4444,50:7F1D1D,100:0A0A0A&height=120&section=footer" width="100%" alt="footer" />
 </div>
