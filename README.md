@@ -5,7 +5,7 @@
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0A0A0A,45:7F1D1D,100:EF4444&height=220&section=header&text=scrape%20%C2%B7%20build%20%C2%B7%20ship&fontSize=52&fontColor=FAFAFA&fontAlignY=40&desc=Bedirhan%20%E2%80%94%20Web%20Scraping%20%26%20Automation&descAlignY=62&descSize=18&animation=none" width="100%" alt="header" />
+  <img src="https://raw.githubusercontent.com/bedirrhaan/bedirrhaan/main/header.svg" width="100%" alt="scrape · build · ship — Bedirhan, Web Scraping & Automation" />
 </div>
 
 <br/>

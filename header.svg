@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="scrape · build · ship">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A0A0A"/>
+      <stop offset="45%" stop-color="#7F1D1D"/>
+      <stop offset="100%" stop-color="#EF4444"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <path fill="#0A0A0A" fill-opacity="0.25" d="M0 200 C 200 160 400 240 600 200 C 800 160 1000 220 1200 180 L 1200 280 L 0 280 Z"/>
+  <text x="600" y="120" text-anchor="middle" fill="#FAFAFA" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="2">scrape · build · ship</text>
+  <text x="600" y="168" text-anchor="middle" fill="#FECACA" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="500">Bedirhan  Web Scraping &amp; Automation</text>
+</svg>
