@@ -68,41 +68,43 @@ pipeline = (
 
 ## Featured work
 
+Projects with real commit history across months — not one-day dumps.
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔥 <a href="https://github.com/bedirrhaan/turnstile-solver-api">turnstile-solver-api</a></h3>
-      <p>Self-hosted API that solves <b>Cloudflare Turnstile</b> with a stealth browser pool — tokens on demand for scraping pipelines.</p>
-      <code>Python</code> · <code>Quart</code> · <code>Patchright</code> · <code>Camoufox</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💹 <a href="https://github.com/bedirrhaan/cs2-skin-arbitrage">cs2-skin-arbitrage</a></h3>
-      <p>Multi-marketplace <b>CS2 price intel</b>: 5 sources, FX normalize, Telegram alert the second a spread opens.</p>
-      <code>Python</code> · <code>FastAPI</code> · <code>BeautifulSoup</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3>🛒 <a href="https://github.com/bedirrhaan/ecommerce-ai-seller-panel">ecommerce-ai-seller-panel</a></h3>
-      <p>AI-assisted <b>multi-marketplace seller panel</b> — orders, catalog, review intelligence across major TR platforms.</p>
+      <p>AI-assisted <b>multi-marketplace seller panel</b> — orders, catalog, review intelligence. Built iteratively across July 2026.</p>
       <code>Python</code> · <code>FastAPI</code> · <code>Gemini</code>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/bedirrhaan/crypto-arbitrage-bot">crypto-arbitrage-bot</a></h3>
-      <p>Live spread detector: <b>BTCTurk REST</b> vs <b>Paribu Selenium</b> — HMAC auth, threads, desktop GUI.</p>
-      <code>Python</code> · <code>Selenium</code> · <code>HMAC</code>
+      <h3>🔥 <a href="https://github.com/bedirrhaan/turnstile-solver-api">turnstile-solver-api</a></h3>
+      <p>Self-hosted API that solves <b>Cloudflare Turnstile</b> with a stealth browser pool — tokens for scraping pipelines.</p>
+      <code>Python</code> · <code>Quart</code> · <code>Patchright</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🕸️ <a href="https://github.com/bedirrhaan/image-web-crawler">image-web-crawler</a></h3>
-      <p>Recursive image crawler + <b>EXIF / GPS forensics</b> — scrape the web, then read what the pixels remember.</p>
-      <code>Python</code> · <code>stdlib</code>
+      <h3>🐳 <a href="https://github.com/bedirrhaan/dockerized-wordpress-stack">dockerized-wordpress-stack</a></h3>
+      <p><b>DevOps / Docker</b> stack: Nginx (TLS) + WordPress/php-fpm + MariaDB via custom images &amp; compose.</p>
+      <code>Docker</code> · <code>Nginx</code> · <code>MariaDB</code>
     </td>
     <td width="50%" valign="top">
-      <h3>🎮 <a href="https://github.com/bedirrhaan/raycasting-engine">raycasting-engine</a></h3>
-      <p>From-scratch <b>raycasting 3D engine</b> — systems C, graphics math, real-time MiniLibX rendering.</p>
-      <code>C</code> · <code>MiniLibX</code>
+      <h3>📡 <a href="https://github.com/bedirrhaan/cpp-irc-server">cpp-irc-server</a></h3>
+      <p>From-scratch <b>IRC server</b> in C++98 — <code>poll()</code>, channels, modes, PRIVMSG. Feb–Mar 2025.</p>
+      <code>C++98</code> · <code>sockets</code> · <code>CI</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 <a href="https://github.com/bedirrhaan/realtime-pong-platform">realtime-pong-platform</a></h3>
+      <p>Full-stack <b>realtime Pong</b> — Next.js + microservices + Docker. Aug–Nov 2025.</p>
+      <code>Next.js</code> · <code>Docker</code> · <code>TypeScript</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐚 <a href="https://github.com/bedirrhaan/custom-unix-shell">custom-unix-shell</a></h3>
+      <p>Bash-like <b>Unix shell</b> in C — pipes, redirections, builtins. Late 2023 → early 2024.</p>
+      <code>C</code> · <code>Unix</code> · <code>processes</code>
     </td>
   </tr>
 </table>
