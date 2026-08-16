@@ -91,7 +91,7 @@ I study at **42 Türkiye**. Day to day I write scrapers and small APIs in Python
 ## Stats
 
 <div align="center">
-  <img src="./cards.png" alt="stats" width="740" />
+  <img src="./cards.png" alt="stats" width="560" />
 </div>
 
 ---
