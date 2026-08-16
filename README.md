@@ -91,8 +91,8 @@ I study at **42 Türkiye**. Day to day I write scrapers and small APIs in Python
 ## Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bedirrhaan&show_icons=true&count_private=true&hide_border=true&bg_color=0A0A0A&title_color=EF4444&icon_color=F87171&text_color=E5E5E5" alt="stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bedirrhaan&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=EF4444&text_color=E5E5E5&langs_count=8" alt="languages" />
+  <img height="195" src="./stats.svg" alt="stats" />
+  <img height="195" src="./top-langs.svg" alt="languages" />
 </div>
 
 ---
