@@ -1,0 +1,35 @@
+name: Refresh stats card
+
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install Pillow
+        run: pip install --quiet pillow
+      - name: Draw card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python generate_stats.py
+      - name: Commit if changed
+        run: |
+          git config user.name "Bedirhan"
+          git config user.email "122698581+bedirrhaan@users.noreply.github.com"
+          git add profile-stats.png
+          if git diff --cached --quiet; then
+            echo "stats unchanged"
+            exit 0
+          fi
+          git commit -m "refresh profile stats card"
+          git push
