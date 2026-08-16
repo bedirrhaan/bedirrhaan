@@ -91,8 +91,7 @@ I study at **42 Türkiye**. Day to day I write scrapers and small APIs in Python
 ## Stats
 
 <div align="center">
-  <img height="195" src="./stats.svg" alt="stats" />
-  <img height="195" src="./top-langs.svg" alt="languages" />
+  <img src="https://raw.githubusercontent.com/bedirrhaan/bedirrhaan/main/cards.svg" alt="stats" width="740" />
 </div>
 
 ---
